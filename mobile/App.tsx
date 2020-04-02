@@ -9,6 +9,8 @@ const Container = styled.View`
 `;
 
 const Spacer = styled.View`
+  background-color:green;
+  width: 50px;
   height: ${p => p.size}px;
 `;
 
@@ -28,7 +30,7 @@ const _Icon = styled.View`
 export default function App() {
   return (
     <Container>
-      <Spacer size={70} />
+      <Spacer size={100} />
       <Title>Welcome Back</Title>
       <Spacer size={70} />
       <_Icon />
