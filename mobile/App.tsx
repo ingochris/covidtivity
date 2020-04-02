@@ -29,7 +29,7 @@ export default function App() {
   return (
     <Container>
       <Spacer size={70} />
-      <Title>Welcome Back</Title>
+      <Title>Welcome Back, Again!</Title>
       <Spacer size={70} />
       <_Icon />
       <Spacer size={70} />
