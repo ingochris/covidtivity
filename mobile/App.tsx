@@ -32,6 +32,7 @@ export default function App() {
     <Container>
       <Spacer size={100} />
       <Title>Welcome Back</Title>
+      <Title>Welcome Back, Again!</Title>
       <Spacer size={70} />
       <_Icon />
       <Spacer size={70} />
